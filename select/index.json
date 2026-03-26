@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "ブライトサイン",
   "base_artist": "めいちゃん",
-  "createdAt": "2026-03-08T04:25:11.584517Z",
+  "createdAt": "2026-03-26T14:47:29.131686Z",
   "candidates": [
     {
       "id": "petitlyrics_1",
@@ -11,6 +11,15 @@
       "artist": "めいちゃん",
       "has_synced": false,
       "path": "select/pl_01_ブライトサイン_めいちゃん.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "ブライトサイン",
+      "artist": "めいちゃん",
+      "has_synced": false,
+      "path": "select/localdb_01_ブライトサイン_めいちゃん.txt",
+      "repo_name": "W8soC34AEL8"
     }
   ]
 }
